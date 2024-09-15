@@ -4,7 +4,7 @@ This repository provides an interactive Black-Scholes Pricing Model dashboard th
 
 https://sahilnale-black-scholes-option-pricing-streamlit-app-mvr2xe.streamlit.app/
 
-## 🚀 Features:
+## Features:
 
 1. **Options Pricing Visualization**: 
    - Displays both Call and Put option prices using an interactive heatmap.
